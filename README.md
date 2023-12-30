@@ -32,5 +32,5 @@ AutoFileOrganizer is a Python script designed to automate the organization and c
 
 ## Acknowledgments
 
-This script was inspired by and adapted from a tutorial on [YouTube](link-to-the-youtube-video](https://www.youtube.com/watch?v=HcZ3gS1Rgcs&t=721s).
+This script was inspired by and adapted from a tutorial on [YouTube](https://www.youtube.com/watch?v=HcZ3gS1Rgcs&t=721s).
 
