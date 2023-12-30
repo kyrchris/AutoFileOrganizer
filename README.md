@@ -34,3 +34,10 @@ AutoFileOrganizer is a Python script designed to automate the organization and c
 
 This script was inspired by and adapted from a tutorial on [YouTube](https://www.youtube.com/watch?v=HcZ3gS1Rgcs&t=721s).
 
+## Disclaimer
+
+This project, AutoFileOrganizer, was developed for educational and learning purposes. While efforts have been made to create a functional and reliable script, it may not be suitable for production use. The author provides no warranties or guarantees about the fitness of this script for any specific purpose.
+
+Users are encouraged to review and understand the code before using it and should be aware of potential risks associated with its use. The author is not liable for any damage, loss of data, or other issues that may arise from the use of this script.
+
+Use this script responsibly and at your own risk.
