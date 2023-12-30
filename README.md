@@ -30,3 +30,7 @@ AutoFileOrganizer is a Python script designed to automate the organization and c
 4. **Customization:**
    - Customize the `destination_folders` dictionary in the script to define specific folders for additional file types.
 
+## Acknowledgments
+
+This script was inspired by and adapted from a tutorial on [YouTube](link-to-the-youtube-video](https://www.youtube.com/watch?v=HcZ3gS1Rgcs&t=721s)).
+
